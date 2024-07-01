@@ -1,0 +1,397 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\henri\\development\\projects\\RentalManager\\src\\Presentation\\RentalManager.WebApi\\RentalManager.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\henri\\development\\projects\\RentalManager\\src\\Application\\RentalManager.Application\\RentalManager.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\henri\\development\\projects\\RentalManager\\src\\Application\\RentalManager.Application\\RentalManager.Application.csproj",
+        "projectName": "RentalManager.Application",
+        "projectPath": "C:\\Users\\henri\\development\\projects\\RentalManager\\src\\Application\\RentalManager.Application\\RentalManager.Application.csproj",
+        "packagesPath": "C:\\Users\\henri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\henri\\development\\projects\\RentalManager\\src\\Application\\RentalManager.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\henri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\henri\\development\\projects\\RentalManager\\src\\Domain\\RentalManager.Domain\\RentalManager.Domain.csproj": {
+                "projectPath": "C:\\Users\\henri\\development\\projects\\RentalManager\\src\\Domain\\RentalManager.Domain\\RentalManager.Domain.csproj"
+              },
+              "C:\\Users\\henri\\development\\projects\\RentalManager\\src\\Infrastructure\\RentalManager.Infrastructure.CrossCutting.Commons\\RentalManager.Infrastructure.CrossCutting.Commons.csproj": {
+                "projectPath": "C:\\Users\\henri\\development\\projects\\RentalManager\\src\\Infrastructure\\RentalManager.Infrastructure.CrossCutting.Commons\\RentalManager.Infrastructure.CrossCutting.Commons.csproj"
+              },
+              "C:\\Users\\henri\\development\\projects\\RentalManager\\src\\Infrastructure\\RentalManager.Infrastructure.Data\\RentalManager.Infrastructure.Data.csproj": {
+                "projectPath": "C:\\Users\\henri\\development\\projects\\RentalManager\\src\\Infrastructure\\RentalManager.Infrastructure.Data\\RentalManager.Infrastructure.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.2, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\henri\\development\\projects\\RentalManager\\src\\Domain\\RentalManager.Domain\\RentalManager.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\henri\\development\\projects\\RentalManager\\src\\Domain\\RentalManager.Domain\\RentalManager.Domain.csproj",
+        "projectName": "RentalManager.Domain",
+        "projectPath": "C:\\Users\\henri\\development\\projects\\RentalManager\\src\\Domain\\RentalManager.Domain\\RentalManager.Domain.csproj",
+        "packagesPath": "C:\\Users\\henri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\henri\\development\\projects\\RentalManager\\src\\Domain\\RentalManager.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\henri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\henri\\development\\projects\\RentalManager\\src\\Infrastructure\\RentalManager.Infrastructure.CrossCutting.Commons\\RentalManager.Infrastructure.CrossCutting.Commons.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\henri\\development\\projects\\RentalManager\\src\\Infrastructure\\RentalManager.Infrastructure.CrossCutting.Commons\\RentalManager.Infrastructure.CrossCutting.Commons.csproj",
+        "projectName": "RentalManager.Infrastructure.CrossCutting.Commons",
+        "projectPath": "C:\\Users\\henri\\development\\projects\\RentalManager\\src\\Infrastructure\\RentalManager.Infrastructure.CrossCutting.Commons\\RentalManager.Infrastructure.CrossCutting.Commons.csproj",
+        "packagesPath": "C:\\Users\\henri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\henri\\development\\projects\\RentalManager\\src\\Infrastructure\\RentalManager.Infrastructure.CrossCutting.Commons\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\henri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\henri\\development\\projects\\RentalManager\\src\\Domain\\RentalManager.Domain\\RentalManager.Domain.csproj": {
+                "projectPath": "C:\\Users\\henri\\development\\projects\\RentalManager\\src\\Domain\\RentalManager.Domain\\RentalManager.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.2, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.3.0, )"
+            },
+            "Microsoft.Extensions.Caching.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\henri\\development\\projects\\RentalManager\\src\\Infrastructure\\RentalManager.Infrastructure.Data\\RentalManager.Infrastructure.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\henri\\development\\projects\\RentalManager\\src\\Infrastructure\\RentalManager.Infrastructure.Data\\RentalManager.Infrastructure.Data.csproj",
+        "projectName": "RentalManager.Infrastructure.Data",
+        "projectPath": "C:\\Users\\henri\\development\\projects\\RentalManager\\src\\Infrastructure\\RentalManager.Infrastructure.Data\\RentalManager.Infrastructure.Data.csproj",
+        "packagesPath": "C:\\Users\\henri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\henri\\development\\projects\\RentalManager\\src\\Infrastructure\\RentalManager.Infrastructure.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\henri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\henri\\development\\projects\\RentalManager\\src\\Domain\\RentalManager.Domain\\RentalManager.Domain.csproj": {
+                "projectPath": "C:\\Users\\henri\\development\\projects\\RentalManager\\src\\Domain\\RentalManager.Domain\\RentalManager.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\henri\\development\\projects\\RentalManager\\src\\Presentation\\RentalManager.WebApi\\RentalManager.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\henri\\development\\projects\\RentalManager\\src\\Presentation\\RentalManager.WebApi\\RentalManager.WebApi.csproj",
+        "projectName": "RentalManager.WebApi",
+        "projectPath": "C:\\Users\\henri\\development\\projects\\RentalManager\\src\\Presentation\\RentalManager.WebApi\\RentalManager.WebApi.csproj",
+        "packagesPath": "C:\\Users\\henri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\henri\\development\\projects\\RentalManager\\src\\Presentation\\RentalManager.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\henri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\henri\\development\\projects\\RentalManager\\src\\Application\\RentalManager.Application\\RentalManager.Application.csproj": {
+                "projectPath": "C:\\Users\\henri\\development\\projects\\RentalManager\\src\\Application\\RentalManager.Application\\RentalManager.Application.csproj"
+              },
+              "C:\\Users\\henri\\development\\projects\\RentalManager\\src\\Infrastructure\\RentalManager.Infrastructure.Data\\RentalManager.Infrastructure.Data.csproj": {
+                "projectPath": "C:\\Users\\henri\\development\\projects\\RentalManager\\src\\Infrastructure\\RentalManager.Infrastructure.Data\\RentalManager.Infrastructure.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.2, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.9.2, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.3.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

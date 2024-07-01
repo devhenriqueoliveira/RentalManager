@@ -1,0 +1,15 @@
+C:\Users\henri\development\projects\RentalManager\src\Infrastructure\RentalManager.Infrastructure.Data\obj\Debug\net8.0\RentalManager.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\development\projects\RentalManager\src\Infrastructure\RentalManager.Infrastructure.Data\obj\Debug\net8.0\RentalManager.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Users\henri\development\projects\RentalManager\src\Infrastructure\RentalManager.Infrastructure.Data\obj\Debug\net8.0\RentalManager.Infrastructure.Data.AssemblyInfo.cs
+C:\Users\henri\development\projects\RentalManager\src\Infrastructure\RentalManager.Infrastructure.Data\obj\Debug\net8.0\RentalManager.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\henri\development\projects\RentalManager\src\Infrastructure\RentalManager.Infrastructure.Data\obj\Debug\net8.0\RentalManager.Infrastructure.Data.csproj.AssemblyReference.cache
+C:\Users\henri\development\projects\RentalManager\src\Infrastructure\RentalManager.Infrastructure.Data\bin\Debug\net8.0\RentalManager.Infrastructure.Data.deps.json
+C:\Users\henri\development\projects\RentalManager\src\Infrastructure\RentalManager.Infrastructure.Data\bin\Debug\net8.0\RentalManager.Infrastructure.Data.dll
+C:\Users\henri\development\projects\RentalManager\src\Infrastructure\RentalManager.Infrastructure.Data\bin\Debug\net8.0\RentalManager.Infrastructure.Data.pdb
+C:\Users\henri\development\projects\RentalManager\src\Infrastructure\RentalManager.Infrastructure.Data\bin\Debug\net8.0\RentalManager.Domain.dll
+C:\Users\henri\development\projects\RentalManager\src\Infrastructure\RentalManager.Infrastructure.Data\bin\Debug\net8.0\RentalManager.Domain.pdb
+C:\Users\henri\development\projects\RentalManager\src\Infrastructure\RentalManager.Infrastructure.Data\obj\Debug\net8.0\RentalMa.CB37A0BF.Up2Date
+C:\Users\henri\development\projects\RentalManager\src\Infrastructure\RentalManager.Infrastructure.Data\obj\Debug\net8.0\RentalManager.Infrastructure.Data.dll
+C:\Users\henri\development\projects\RentalManager\src\Infrastructure\RentalManager.Infrastructure.Data\obj\Debug\net8.0\refint\RentalManager.Infrastructure.Data.dll
+C:\Users\henri\development\projects\RentalManager\src\Infrastructure\RentalManager.Infrastructure.Data\obj\Debug\net8.0\RentalManager.Infrastructure.Data.pdb
+C:\Users\henri\development\projects\RentalManager\src\Infrastructure\RentalManager.Infrastructure.Data\obj\Debug\net8.0\ref\RentalManager.Infrastructure.Data.dll

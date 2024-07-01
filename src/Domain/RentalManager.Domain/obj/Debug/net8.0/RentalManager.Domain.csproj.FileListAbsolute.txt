@@ -1,0 +1,11 @@
+C:\Users\henri\development\projects\RentalManager\src\Domain\RentalManager.Domain\bin\Debug\net8.0\RentalManager.Domain.deps.json
+C:\Users\henri\development\projects\RentalManager\src\Domain\RentalManager.Domain\bin\Debug\net8.0\RentalManager.Domain.dll
+C:\Users\henri\development\projects\RentalManager\src\Domain\RentalManager.Domain\bin\Debug\net8.0\RentalManager.Domain.pdb
+C:\Users\henri\development\projects\RentalManager\src\Domain\RentalManager.Domain\obj\Debug\net8.0\RentalManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\development\projects\RentalManager\src\Domain\RentalManager.Domain\obj\Debug\net8.0\RentalManager.Domain.AssemblyInfoInputs.cache
+C:\Users\henri\development\projects\RentalManager\src\Domain\RentalManager.Domain\obj\Debug\net8.0\RentalManager.Domain.AssemblyInfo.cs
+C:\Users\henri\development\projects\RentalManager\src\Domain\RentalManager.Domain\obj\Debug\net8.0\RentalManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\henri\development\projects\RentalManager\src\Domain\RentalManager.Domain\obj\Debug\net8.0\RentalManager.Domain.dll
+C:\Users\henri\development\projects\RentalManager\src\Domain\RentalManager.Domain\obj\Debug\net8.0\refint\RentalManager.Domain.dll
+C:\Users\henri\development\projects\RentalManager\src\Domain\RentalManager.Domain\obj\Debug\net8.0\RentalManager.Domain.pdb
+C:\Users\henri\development\projects\RentalManager\src\Domain\RentalManager.Domain\obj\Debug\net8.0\ref\RentalManager.Domain.dll

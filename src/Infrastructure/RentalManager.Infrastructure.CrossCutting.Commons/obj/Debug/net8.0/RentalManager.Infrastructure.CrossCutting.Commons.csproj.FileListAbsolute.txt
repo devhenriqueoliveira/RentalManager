@@ -1,0 +1,15 @@
+C:\Users\henri\development\projects\RentalManager\src\Infrastructure\RentalManager.Infrastructure.CrossCutting.Commons\bin\Debug\net8.0\RentalManager.Infrastructure.CrossCutting.Commons.deps.json
+C:\Users\henri\development\projects\RentalManager\src\Infrastructure\RentalManager.Infrastructure.CrossCutting.Commons\bin\Debug\net8.0\RentalManager.Infrastructure.CrossCutting.Commons.dll
+C:\Users\henri\development\projects\RentalManager\src\Infrastructure\RentalManager.Infrastructure.CrossCutting.Commons\bin\Debug\net8.0\RentalManager.Infrastructure.CrossCutting.Commons.pdb
+C:\Users\henri\development\projects\RentalManager\src\Infrastructure\RentalManager.Infrastructure.CrossCutting.Commons\obj\Debug\net8.0\RentalManager.Infrastructure.CrossCutting.Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\development\projects\RentalManager\src\Infrastructure\RentalManager.Infrastructure.CrossCutting.Commons\obj\Debug\net8.0\RentalManager.Infrastructure.CrossCutting.Commons.AssemblyInfoInputs.cache
+C:\Users\henri\development\projects\RentalManager\src\Infrastructure\RentalManager.Infrastructure.CrossCutting.Commons\obj\Debug\net8.0\RentalManager.Infrastructure.CrossCutting.Commons.AssemblyInfo.cs
+C:\Users\henri\development\projects\RentalManager\src\Infrastructure\RentalManager.Infrastructure.CrossCutting.Commons\obj\Debug\net8.0\RentalManager.Infrastructure.CrossCutting.Commons.csproj.CoreCompileInputs.cache
+C:\Users\henri\development\projects\RentalManager\src\Infrastructure\RentalManager.Infrastructure.CrossCutting.Commons\obj\Debug\net8.0\RentalManager.Infrastructure.CrossCutting.Commons.dll
+C:\Users\henri\development\projects\RentalManager\src\Infrastructure\RentalManager.Infrastructure.CrossCutting.Commons\obj\Debug\net8.0\refint\RentalManager.Infrastructure.CrossCutting.Commons.dll
+C:\Users\henri\development\projects\RentalManager\src\Infrastructure\RentalManager.Infrastructure.CrossCutting.Commons\obj\Debug\net8.0\RentalManager.Infrastructure.CrossCutting.Commons.pdb
+C:\Users\henri\development\projects\RentalManager\src\Infrastructure\RentalManager.Infrastructure.CrossCutting.Commons\obj\Debug\net8.0\ref\RentalManager.Infrastructure.CrossCutting.Commons.dll
+C:\Users\henri\development\projects\RentalManager\src\Infrastructure\RentalManager.Infrastructure.CrossCutting.Commons\obj\Debug\net8.0\RentalManager.Infrastructure.CrossCutting.Commons.csproj.AssemblyReference.cache
+C:\Users\henri\development\projects\RentalManager\src\Infrastructure\RentalManager.Infrastructure.CrossCutting.Commons\bin\Debug\net8.0\RentalManager.Domain.dll
+C:\Users\henri\development\projects\RentalManager\src\Infrastructure\RentalManager.Infrastructure.CrossCutting.Commons\bin\Debug\net8.0\RentalManager.Domain.pdb
+C:\Users\henri\development\projects\RentalManager\src\Infrastructure\RentalManager.Infrastructure.CrossCutting.Commons\obj\Debug\net8.0\RentalMa.8CB23914.Up2Date

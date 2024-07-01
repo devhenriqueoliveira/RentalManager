@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="11.9.2" />
+    <PackageReference Include="MediatR" Version="12.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Domain\RentalManager.Domain\RentalManager.Domain.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\RentalManager.Infrastructure.CrossCutting.Commons\RentalManager.Infrastructure.CrossCutting.Commons.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\RentalManager.Infrastructure.Data\RentalManager.Infrastructure.Data.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Customers\" />
+    <Folder Include="Roles\" />
+    <Folder Include="Users\" />
+  </ItemGroup>
+
+</Project>

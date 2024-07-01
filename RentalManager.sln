@@ -1,0 +1,82 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{9E2174FA-A2F9-4A43-8D24-17F4076748C0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{7A7C3CF8-210C-4D31-B616-432CEB903011}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{41E4266E-9EE3-45BF-9D34-ECFC73D9A7E2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{A160D93C-FE79-40CD-A179-56C0CDC5C7AA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{E5AD0964-89E9-400E-A4FC-FD1CBA8073B2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RentalManager.Application", "src\Application\RentalManager.Application\RentalManager.Application.csproj", "{98A74C07-FE75-47E8-BC12-0E37D88BD955}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RentalManager.Domain", "src\Domain\RentalManager.Domain\RentalManager.Domain.csproj", "{DF3EB878-3646-40A8-B5C8-A216A2C47F2C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RentalManager.WebApi", "src\Presentation\RentalManager.WebApi\RentalManager.WebApi.csproj", "{929545C9-1069-4361-97C7-2B72C75450E7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Commons", "Commons", "{6648D274-D621-4833-B69B-443EBB192A4F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RentalManager.Infrastructure.CrossCutting.Commons", "src\Infrastructure\RentalManager.Infrastructure.CrossCutting.Commons\RentalManager.Infrastructure.CrossCutting.Commons.csproj", "{651DCEF4-3109-461E-B92D-3D4AE0D4337B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{1689D363-8E37-40EA-AA0C-F693CAA0289F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RentalManager.Infrastructure.Data", "src\Infrastructure\RentalManager.Infrastructure.Data\RentalManager.Infrastructure.Data.csproj", "{1CAFE3DE-9ECD-4EC8-9DE5-62E177096EB9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CrossCutting", "CrossCutting", "{4E2D4331-F235-4B28-BA5C-525FA9F483B7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DependecyInjection", "DependecyInjection", "{F41BB54C-1236-41E3-9C68-9126DD619E22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98A74C07-FE75-47E8-BC12-0E37D88BD955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98A74C07-FE75-47E8-BC12-0E37D88BD955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98A74C07-FE75-47E8-BC12-0E37D88BD955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98A74C07-FE75-47E8-BC12-0E37D88BD955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF3EB878-3646-40A8-B5C8-A216A2C47F2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF3EB878-3646-40A8-B5C8-A216A2C47F2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF3EB878-3646-40A8-B5C8-A216A2C47F2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF3EB878-3646-40A8-B5C8-A216A2C47F2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{929545C9-1069-4361-97C7-2B72C75450E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{929545C9-1069-4361-97C7-2B72C75450E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{929545C9-1069-4361-97C7-2B72C75450E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{929545C9-1069-4361-97C7-2B72C75450E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{651DCEF4-3109-461E-B92D-3D4AE0D4337B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{651DCEF4-3109-461E-B92D-3D4AE0D4337B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{651DCEF4-3109-461E-B92D-3D4AE0D4337B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{651DCEF4-3109-461E-B92D-3D4AE0D4337B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CAFE3DE-9ECD-4EC8-9DE5-62E177096EB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CAFE3DE-9ECD-4EC8-9DE5-62E177096EB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CAFE3DE-9ECD-4EC8-9DE5-62E177096EB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CAFE3DE-9ECD-4EC8-9DE5-62E177096EB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7A7C3CF8-210C-4D31-B616-432CEB903011} = {9E2174FA-A2F9-4A43-8D24-17F4076748C0}
+		{41E4266E-9EE3-45BF-9D34-ECFC73D9A7E2} = {9E2174FA-A2F9-4A43-8D24-17F4076748C0}
+		{A160D93C-FE79-40CD-A179-56C0CDC5C7AA} = {9E2174FA-A2F9-4A43-8D24-17F4076748C0}
+		{E5AD0964-89E9-400E-A4FC-FD1CBA8073B2} = {9E2174FA-A2F9-4A43-8D24-17F4076748C0}
+		{98A74C07-FE75-47E8-BC12-0E37D88BD955} = {41E4266E-9EE3-45BF-9D34-ECFC73D9A7E2}
+		{DF3EB878-3646-40A8-B5C8-A216A2C47F2C} = {E5AD0964-89E9-400E-A4FC-FD1CBA8073B2}
+		{929545C9-1069-4361-97C7-2B72C75450E7} = {7A7C3CF8-210C-4D31-B616-432CEB903011}
+		{6648D274-D621-4833-B69B-443EBB192A4F} = {4E2D4331-F235-4B28-BA5C-525FA9F483B7}
+		{651DCEF4-3109-461E-B92D-3D4AE0D4337B} = {6648D274-D621-4833-B69B-443EBB192A4F}
+		{1689D363-8E37-40EA-AA0C-F693CAA0289F} = {A160D93C-FE79-40CD-A179-56C0CDC5C7AA}
+		{1CAFE3DE-9ECD-4EC8-9DE5-62E177096EB9} = {1689D363-8E37-40EA-AA0C-F693CAA0289F}
+		{4E2D4331-F235-4B28-BA5C-525FA9F483B7} = {A160D93C-FE79-40CD-A179-56C0CDC5C7AA}
+		{F41BB54C-1236-41E3-9C68-9126DD619E22} = {4E2D4331-F235-4B28-BA5C-525FA9F483B7}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BAB49DD-E6F1-4A15-83F5-A00FB3A906EF}
+	EndGlobalSection
+EndGlobal
